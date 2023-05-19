@@ -1,0 +1,21 @@
+.fontgray{
+    color: rgb(185,185,185);
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.ins-fcon{
+    width: 350px;
+    background-color: rgb(242,242,242);
+}
+.lasttext{
+    font-size: 11px;
+}
+.asd-link{
+    text-decoration: none;
+    color: black;
+}
+.asd-link:hover {
+    color: black;
+}
